@@ -16,3 +16,8 @@ Insights > community Standards > License Add > MIT License > Review and submit >
 
 ## package.json
 git 파일 선택 수정 해서 node 모듈로 선택
+
+
+## nodemon 사용해보기
+npm install nodemon -g
+파일 수정시 자동구동 
